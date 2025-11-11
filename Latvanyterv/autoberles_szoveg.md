@@ -20,6 +20,7 @@
   - `Rent a car` gomb, amellyel a foglalás folytatható. 
   - Lentebb további járműajánlatok találhatók. 
 
-## GYIK és alkalmazás szekció (Desktop – 4) 
+## GYIK és About us (Desktop – 4) 
 - Ez az oldal a leggyakoribb kérdésekre ad választ. 
 - A statisztikai adatok vizuálisan megerősítik az oldal megbízhatóságát. 
+
